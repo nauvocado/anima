@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+anima: the spirit or the soul
 ---
 
